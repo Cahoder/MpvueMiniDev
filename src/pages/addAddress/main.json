@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "新增收货地址",
+  "usingComponents": {
+    "i-icon": "../../static/iviewUI/icon/index",
+    "i-input": "../../static/iviewUI/input/index",
+    "i-panel": "../../static/iviewUI/panel/index",
+    "i-button": "../../static/iviewUI/button/index",
+    "i-switch": "../../static/iviewUI/switch/index"
+  }
+}

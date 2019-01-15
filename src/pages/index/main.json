@@ -1,0 +1,21 @@
+{
+  "navigationBarTitleText": "校园订餐",
+  "usingComponents": {
+    "i-row": "../../static/iviewUI/row/index",
+    "i-col": "../../static/iviewUI/col/index",
+    "i-tab-bar": "../../static/iviewUI/tab-bar/index",
+    "i-tab-bar-item": "../../static/iviewUI/tab-bar-item/index",
+    "i-cell-group": "../../static/iviewUI/cell-group/index",
+    "i-cell": "../../static/iviewUI/cell/index",
+    "i-icon": "../../static/iviewUI/icon/index",
+    "i-avatar": "../../static/iviewUI/avatar/index",
+    "i-tabs": "../../static/iviewUI/tabs/index",
+    "i-tag": "../../static/iviewUI/tag/index",
+    "i-tab": "../../static/iviewUI/tab/index",
+    "i-card": "../../static/iviewUI/card/index",
+    "i-rate": "../../static/iviewUI/rate/index",
+    "i-spin": "../../static/iviewUI/spin/index",
+    "i-load-more": "../../static/iviewUI/load-more/index",
+    "i-badge": "../../static/iviewUI/badge/index"
+  }
+}

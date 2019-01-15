@@ -1,0 +1,17 @@
+{
+  "navigationBarTitleText": "饱了么",
+  "navigationBarBackgroundColor":"#333333",
+  "navigationBarTextStyle":"white",
+  "usingComponents": {
+    "i-panel": "../../static/iviewUI/panel/index",
+    "i-icon": "../../static/iviewUI/icon/index",
+    "i-tag": "../../static/iviewUI/tag/index",
+    "i-cell": "../../static/iviewUI/cell/index",
+    "i-tabs": "../../static/iviewUI/tabs/index",
+    "i-tab": "../../static/iviewUI/tab/index",
+    "i-sticky": "../../static/iviewUI/sticky/index",
+    "i-sticky-item": "../../static/iviewUI/sticky-item/index",
+    "i-button": "../../static/iviewUI/button/index",
+    "i-badge": "../../static/iviewUI/badge/index"
+  }
+}

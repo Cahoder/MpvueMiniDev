@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "我的订单",
+  "usingComponents": {
+    "i-tabs": "../../static/iviewUI/tabs/index",
+    "i-tab": "../../static/iviewUI/tab/index",
+    "i-spin": "../../static/iviewUI/spin/index",
+    "i-card": "../../static/iviewUI/card/index",
+    "i-button": "../../static/iviewUI/button/index",
+    "i-row": "../../static/iviewUI/row/index",
+    "i-col": "../../static/iviewUI/col/index"
+  }
+}

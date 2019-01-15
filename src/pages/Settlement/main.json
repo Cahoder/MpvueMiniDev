@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "订单结算",
+  "navigationBarBackgroundColor":"#333333",
+  "navigationBarTextStyle":"white",
+  "usingComponents": {
+    "i-icon": "../../static/iviewUI/icon/index"
+  }
+}

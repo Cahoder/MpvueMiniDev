@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "收货地址",
+  "usingComponents": {
+    "i-icon": "../../static/iviewUI/icon/index",
+    "i-panel": "../../static/iviewUI/panel/index"
+  }
+}
